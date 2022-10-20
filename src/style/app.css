@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
